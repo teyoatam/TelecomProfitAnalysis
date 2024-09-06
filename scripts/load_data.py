@@ -42,8 +42,8 @@ def load_data_from_postgres(query):
 
         return df
 
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    except Exception as f:
+        print(f"An error occurred: {f}")
         return None
 
 

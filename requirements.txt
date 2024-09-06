@@ -16,4 +16,7 @@ zscore
 sklearn.impute 
  SimpleImputer
  postgresql
+ Scikit-learn
+Matplotlib
+kmeans
  
