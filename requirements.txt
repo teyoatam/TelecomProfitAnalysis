@@ -1,0 +1,19 @@
+psycopg2
+python-dotenv
+pandas
+psycopg2-binary
+sqlalchemy
+ os
+ sys
+ pandas 
+numpy 
+matplotlib.pyplot 
+seaborn 
+sklearn.decomposition
+sklearn.preprocessing
+ scipy.stats 
+zscore
+sklearn.impute 
+ SimpleImputer
+ postgresql
+ 
